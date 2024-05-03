@@ -1,0 +1,5 @@
+numpy
+pandas
+subprocess
+matplotlib
+statistics
