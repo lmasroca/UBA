@@ -43,7 +43,7 @@ El esquema de carpetas es el siguiente:
 │     │  Ruta predeterminada para los archivos csv de salida de Python y C++.
 │     └────tiempo_instancias (carpeta que contiene los csv con la información para los plots del segundo experimento)
 └────informe
-         Informe realizado para este trabajo práctico, explicando los experimentos realizados y sus resultados, entre otras cosas.
+         Informe realizado para este trabajo práctico, explicando los experimentos realizados y sus resultados.
 ```
 
 Para correr experimentos con Python (luego de compilar al menos una versión): desde la terminal, localizarse sobre la carpeta py, y ejecutar python3 main.py, deberán descargarse las los paquetes requeridos, se incluye un requirements.txt para usar con pip.
