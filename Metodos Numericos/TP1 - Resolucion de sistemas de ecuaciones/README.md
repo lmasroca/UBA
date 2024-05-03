@@ -13,12 +13,12 @@ Sin embargo, para diferenciar algoritmos recomendamos compilar un ejecutable par
 Para utilizar los ejecutables de C++ por consola usar ./tp1 radio_interno radio_externo cant_radios cant_angulos valor_isoterma(esto no se utiliza) ninst [2*cant_angulos*ninst valores decimales separados por espacios simples (sin pasar de línea para cada ninst)].
 
 
-Ejemplo ./tp1 10 100 20 5 500 1 1500 1500 1500 1500 1500 0 0 0 0 0
-Ejemplo2 ./tp1 10 100 20 5 500 2 1500 1500 1500 1500 1500 0 0 0 0 0 1500 1500 1500 1500 1500 0 0 0 0 0
-
-
+Ejemplos:
 ```
-pip install -r requirements.txt
+./tp1 10 100 20 5 500 1 1500 1500 1500 1500 1500 0 0 0 0 0
+```
+```
+./tp1 10 100 20 5 500 2 1500 1500 1500 1500 1500 0 0 0 0 0 1500 1500 1500 1500 1500 0 0 0 0 0
 ```
 
 Los resultados se devuelven en formato .csv en la carpeta csv (ver esquema de carpetas) más abajo
@@ -41,4 +41,9 @@ El esquema de carpetas es el siguiente:
         Informe realizado para este trabajo práctico, explicando los experimentos realizados y sus resultados, entre otras cosas.
 
 
-Para correr experimentos con Python (luego de compilar al menos una versión): desde la terminal, localizarse sobre la carpeta py, y ejecutar python3 main.py, deberán descargarse las los paquetes requeridos, se incluye un requirements.txt para usar con pip. Tomar en cuenta que todo valor numérico pedido se volverá entero.
+Para correr experimentos con Python (luego de compilar al menos una versión): desde la terminal, localizarse sobre la carpeta py, y ejecutar python3 main.py, deberán descargarse las los paquetes requeridos, se incluye un requirements.txt para usar con pip.
+
+
+```
+pip install -r requirements.txt
+```
