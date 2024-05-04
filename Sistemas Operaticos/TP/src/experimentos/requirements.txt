@@ -1,0 +1,4 @@
+subprocess
+numpy
+matplotlibt
+scipy
