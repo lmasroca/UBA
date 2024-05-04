@@ -41,6 +41,7 @@ El esquema de carpetas es el siguiente:
 └────py
 |       main.py
 |       notebooks de experimentos, imagenes, plots y tablas.
+|       requirements.txt (para usar con pip para instalar los paquetes requeridos)
 |       (opcional: build_csv.py y metricas.py)
 └────csv
 |       Poner aqui los csv que van a ser leidos desde Python o C++.
