@@ -3,6 +3,5 @@ pandas
 matplotlib
 seaborn
 sklearn
-subprocess
 tqdm
 pil
