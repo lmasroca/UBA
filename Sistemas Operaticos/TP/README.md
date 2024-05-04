@@ -6,7 +6,7 @@ En este trabajo se implementa un juego de tablero de captura la bandera por equi
 
 El tp se puede compilar y correr usando el script `run.sh` o alternativamente usando:
 
-```
+```bash
 mkdir -p build && cd build && cmake ../ && make
 ```
 
@@ -14,7 +14,7 @@ y luego buscando el ejecutable `test_tp_sistemas` en la carpeta `build` (posible
 
 Se provee un requirements.txt para poder instalar los módulos necesarios para correr el notebook de Python de los experimentos.
 
-```
+```bash
 pip install -r requirements.txt
 ```
 

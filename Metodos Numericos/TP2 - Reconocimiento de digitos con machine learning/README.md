@@ -11,7 +11,7 @@ Compilar un ejecutable (preferiblemente compilar tp2OPT y renombrar a tp2 para e
 
 Para utilizar los ejecutables de C++ por consola usar:
 
-```
+```bash
 ./tp2 PCA_bool k votacionPesada_bool alpha epsilon train.csv test.csv output.csv [guardarKMasCercanosBool] [guardarAvectsBool] [leerKMasCercanos] [leerAVect numFold]
 ```
 
@@ -19,7 +19,7 @@ Ponemos entre corchetes los [argumentos opcionales], usados únicamente en caso 
 
 Ejemplo:
 
-```
+```bash
 ./tp2 0 5 0 30 1e-6 train.csv test.csv output.csv
 ```
 
@@ -56,6 +56,6 @@ Para correr experimentos con Python: Pueden usar un Jupyter notebook e importar 
 
 Además, contamos con build_csv.py que nos permite construir csvs que tengan un formato legible para poder ser importados por pandas. Y por último, el metricas.py cuyo único propósito es comparar los resultados de las métricas calculadas por nuestro clasificador contra el clasificador de sklearn. Se incluye un requirements.txt para usar con pip para instalar las dependencias.
 
-```
+```bash
 pip install -r requirements.txt
 ```

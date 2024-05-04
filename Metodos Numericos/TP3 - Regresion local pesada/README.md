@@ -6,7 +6,7 @@ En este trabajo se implementó el procedimiento de regresión localmente pesada 
 
 Se incluye un requirements.txt para instalar los módulos requeridos para Python usando pip.
 
-```
+```bash
 pip install -r requirements.txt
 ```
 

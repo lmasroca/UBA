@@ -18,10 +18,10 @@ Para utilizar los ejecutables de C++ por consola usar ./tp1 radio_interno radio_
 
 
 Ejemplos:
-```
+```bash
 ./tp1 10 100 20 5 500 1 1500 1500 1500 1500 1500 0 0 0 0 0
 ```
-```
+```bash
 ./tp1 10 100 20 5 500 2 1500 1500 1500 1500 1500 0 0 0 0 0 1500 1500 1500 1500 1500 0 0 0 0 0
 ```
 
@@ -49,6 +49,6 @@ El esquema de carpetas es el siguiente:
 Para correr experimentos con Python (luego de compilar al menos una versión): desde la terminal, localizarse sobre la carpeta py, y ejecutar python3 main.py, deberán descargarse las los paquetes requeridos, se incluye un requirements.txt para usar con pip.
 
 
-```
+```bash
 pip install -r requirements.txt
 ```
