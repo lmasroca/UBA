@@ -10,7 +10,13 @@ El tp se puede compilar y correr usando el script `run.sh` o alternativamente us
 mkdir -p build && cd build && cmake ../ && make
 ```
 
-y luego buscando el ejecutable `test_tp_sistemas` en la carpeta `build` (posiblemente el script no tenga permisos de ejecución, usar sudo chmod +x).
+y luego buscando el ejecutable `test_tp_sistemas` en la carpeta `build`. 
+
+Posiblemente el script no tenga permisos de ejecución, usar:
+
+```
+sudo chmod +x ...
+```
 
 Se provee un requirements.txt para poder instalar los módulos necesarios para correr el notebook de Python de los experimentos.
 
