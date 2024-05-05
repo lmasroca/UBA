@@ -1,0 +1,1 @@
+MutationDetails [id=MutationIdentifier [location=Location [clazz=org.autotest.StackAr, method=repOK, methodDesc=()Z], indexes=[66], mutator=org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator], filename=StackAr.java, block=[10], lineNumber=45, description=removed call to java/io/PrintStream::println, testsInOrder=[]]

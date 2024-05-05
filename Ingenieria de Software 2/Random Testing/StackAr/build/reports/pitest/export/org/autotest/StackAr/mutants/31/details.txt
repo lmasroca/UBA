@@ -1,0 +1,1 @@
+MutationDetails [id=MutationIdentifier [location=Location [clazz=org.autotest.StackAr, method=pop, methodDesc=()Ljava/lang/Object;], indexes=[37], mutator=org.pitest.mutationtest.engine.gregor.mutators.returns.NullReturnValsMutator], filename=StackAr.java, block=[5], lineNumber=78, description=replaced return value with null for org/autotest/StackAr::pop, testsInOrder=[]]

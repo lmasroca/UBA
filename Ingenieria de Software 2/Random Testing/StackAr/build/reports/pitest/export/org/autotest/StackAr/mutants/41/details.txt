@@ -1,0 +1,1 @@
+MutationDetails [id=MutationIdentifier [location=Location [clazz=org.autotest.StackAr, method=equals, methodDesc=(Ljava/lang/Object;)Z], indexes=[14], mutator=org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator], filename=StackAr.java, block=[2], lineNumber=102, description=negated conditional, testsInOrder=[]]

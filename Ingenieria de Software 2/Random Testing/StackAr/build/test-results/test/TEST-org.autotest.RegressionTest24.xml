@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.autotest.RegressionTest24" tests="50" skipped="0" failures="0" errors="0" timestamp="2024-04-04T22:18:31" hostname="ARJHNQGK3" time="0.02">
+  <properties/>
+  <testcase name="test1201()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1202()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1203()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1204()" classname="org.autotest.RegressionTest24" time="0.001"/>
+  <testcase name="test1205()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1206()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1207()" classname="org.autotest.RegressionTest24" time="0.001"/>
+  <testcase name="test1208()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1209()" classname="org.autotest.RegressionTest24" time="0.001"/>
+  <testcase name="test1210()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1211()" classname="org.autotest.RegressionTest24" time="0.001"/>
+  <testcase name="test1212()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1213()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1214()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1215()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1216()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1217()" classname="org.autotest.RegressionTest24" time="0.001"/>
+  <testcase name="test1218()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1219()" classname="org.autotest.RegressionTest24" time="0.001"/>
+  <testcase name="test1220()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1221()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1222()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1223()" classname="org.autotest.RegressionTest24" time="0.001"/>
+  <testcase name="test1224()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1225()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1226()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1227()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1228()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1229()" classname="org.autotest.RegressionTest24" time="0.001"/>
+  <testcase name="test1230()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1231()" classname="org.autotest.RegressionTest24" time="0.001"/>
+  <testcase name="test1232()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1233()" classname="org.autotest.RegressionTest24" time="0.001"/>
+  <testcase name="test1234()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1235()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1236()" classname="org.autotest.RegressionTest24" time="0.001"/>
+  <testcase name="test1237()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1238()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1239()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1240()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1241()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1242()" classname="org.autotest.RegressionTest24" time="0.001"/>
+  <testcase name="test1243()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1244()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1245()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1246()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1247()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1248()" classname="org.autotest.RegressionTest24" time="0.001"/>
+  <testcase name="test1249()" classname="org.autotest.RegressionTest24" time="0.0"/>
+  <testcase name="test1250()" classname="org.autotest.RegressionTest24" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

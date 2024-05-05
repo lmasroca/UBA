@@ -1,0 +1,1 @@
+MutationDetails [id=MutationIdentifier [location=Location [clazz=org.autotest.StackAr, method=hashCode, methodDesc=()I], indexes=[31], mutator=org.pitest.mutationtest.engine.gregor.mutators.returns.PrimitiveReturnsMutator], filename=StackAr.java, block=[1], lineNumber=95, description=replaced int return with 0 for org/autotest/StackAr::hashCode, testsInOrder=[]]

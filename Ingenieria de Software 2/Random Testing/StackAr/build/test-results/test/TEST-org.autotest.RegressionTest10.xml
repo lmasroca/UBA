@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.autotest.RegressionTest10" tests="50" skipped="0" failures="0" errors="0" timestamp="2024-04-04T22:18:31" hostname="ARJHNQGK3" time="0.009">
+  <properties/>
+  <testcase name="test0501()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0502()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0503()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0504()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0505()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0506()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0507()" classname="org.autotest.RegressionTest10" time="0.001"/>
+  <testcase name="test0508()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0509()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0510()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0511()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0512()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0513()" classname="org.autotest.RegressionTest10" time="0.001"/>
+  <testcase name="test0514()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0515()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0516()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0517()" classname="org.autotest.RegressionTest10" time="0.001"/>
+  <testcase name="test0518()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0519()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0520()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0521()" classname="org.autotest.RegressionTest10" time="0.001"/>
+  <testcase name="test0522()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0523()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0524()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0525()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0526()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0527()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0528()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0529()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0530()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0531()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0532()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0533()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0534()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0535()" classname="org.autotest.RegressionTest10" time="0.001"/>
+  <testcase name="test0536()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0537()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0538()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0539()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0540()" classname="org.autotest.RegressionTest10" time="0.001"/>
+  <testcase name="test0541()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0542()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0543()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0544()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0545()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0546()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0547()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0548()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0549()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <testcase name="test0550()" classname="org.autotest.RegressionTest10" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

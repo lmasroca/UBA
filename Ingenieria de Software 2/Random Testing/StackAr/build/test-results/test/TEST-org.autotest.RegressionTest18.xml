@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.autotest.RegressionTest18" tests="50" skipped="0" failures="0" errors="0" timestamp="2024-04-04T22:18:31" hostname="ARJHNQGK3" time="0.008">
+  <properties/>
+  <testcase name="test0901()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0902()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0903()" classname="org.autotest.RegressionTest18" time="0.001"/>
+  <testcase name="test0904()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0905()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0906()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0907()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0908()" classname="org.autotest.RegressionTest18" time="0.001"/>
+  <testcase name="test0909()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0910()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0911()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0912()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0913()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0914()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0915()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0916()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0917()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0918()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0919()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0920()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0921()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0922()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0923()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0924()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0925()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0926()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0927()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0928()" classname="org.autotest.RegressionTest18" time="0.001"/>
+  <testcase name="test0929()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0930()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0931()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0932()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0933()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0934()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0935()" classname="org.autotest.RegressionTest18" time="0.001"/>
+  <testcase name="test0936()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0937()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0938()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0939()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0940()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0941()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0942()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0943()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0944()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0945()" classname="org.autotest.RegressionTest18" time="0.001"/>
+  <testcase name="test0946()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0947()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0948()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0949()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <testcase name="test0950()" classname="org.autotest.RegressionTest18" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

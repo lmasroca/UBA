@@ -1,0 +1,1 @@
+MutationDetails [id=MutationIdentifier [location=Location [clazz=org.autotest.StackAr, method=isEmpty, methodDesc=()Z], indexes=[13], mutator=org.pitest.mutationtest.engine.gregor.mutators.returns.BooleanTrueReturnValsMutator], filename=StackAr.java, block=[4], lineNumber=56, description=replaced boolean return with true for org/autotest/StackAr::isEmpty, testsInOrder=[]]

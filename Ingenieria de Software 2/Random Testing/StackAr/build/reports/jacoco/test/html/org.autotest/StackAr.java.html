@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>StackAr.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">StackAr</a> &gt; <a href="index.source.html" class="el_package">org.autotest</a> &gt; <span class="el_source">StackAr.java</span></div><h1>StackAr.java</h1><pre class="source lang-java linenums">package org.autotest;
+
+import java.util.Arrays;
+import randoop.CheckRep;
+
+public class StackAr {
+
+	private final static int DEFAULT_CAPACITY = 10;
+
+	private final Object[] elems;
+
+<span class="fc" id="L12">	private int readIndex = -1;</span>
+
+	public StackAr() {
+<span class="fc" id="L15">		this(DEFAULT_CAPACITY);</span>
+<span class="fc" id="L16">	}</span>
+
+<span class="fc" id="L18">	public StackAr(int capacity) throws IllegalArgumentException {</span>
+<span class="fc bfc" id="L19" title="All 2 branches covered.">		if (capacity &lt; 0) {</span>
+<span class="fc" id="L20">			throw new IllegalArgumentException();</span>
+		}
+<span class="fc" id="L22">		this.elems = new Object[capacity];</span>
+<span class="fc" id="L23">	}</span>
+
+	/**
+	 * El &quot;invariante de representación&quot; de una clase es una propiedad que deben cumplir todas las instancias de la clase.
+	 * Al utilizar la anotación @CheckRep, podemos indicarle a Randoop qué métodos en las clases bajo test son métodos de
+	 * invariante de representación. Randoop llamará a estos métodos; si el método falla en algún momento, Randoop generará
+	 * el test como un test fallido.
+	 *
+	 * A continuación, utilizamos la anotación @CheckRep sobre un método de instancia público sin argumentos y con tipo de
+	 * retorno booleano. En este caso, Randoop interpretará un valor de retorno verdadero como la satisfacción del
+	 * invariante de representación, y un valor de retorno falso como la violación del invariante de representación.
+	 */
+	@CheckRep
+	public boolean repOK() {
+		try {
+<span class="nc bnc" id="L38" title="All 6 branches missed.">			if (elems == null || readIndex &lt; -1 || readIndex &gt;= elems.length)</span>
+<span class="nc" id="L39">				return false;</span>
+<span class="nc bnc" id="L40" title="All 2 branches missed.">			for (int i = readIndex + 1; i &lt; elems.length; i++){</span>
+<span class="nc bnc" id="L41" title="All 2 branches missed.">				if (elems[i] != null) return false;</span>
+			}
+<span class="nc" id="L43">			return true;</span>
+<span class="nc" id="L44">		} catch (Exception | Error e) {</span>
+<span class="nc" id="L45">			System.err.println(&quot;ERROR en el método repOK.&quot;);</span>
+<span class="nc" id="L46">			e.printStackTrace();</span>
+<span class="nc" id="L47">			return false;</span>
+		}
+	}
+
+	public int size() {
+<span class="fc" id="L52">		return readIndex+1;</span>
+	}
+
+	public boolean isEmpty() {
+<span class="fc bfc" id="L56" title="All 2 branches covered.">		return size() == 0;</span>
+	}
+
+	public boolean isFull() {
+<span class="fc bfc" id="L60" title="All 2 branches covered.">		return size() == elems.length;</span>
+	}
+
+	public void push(Object o) throws IllegalStateException {
+<span class="fc bfc" id="L64" title="All 2 branches covered.">		if (isFull()) {</span>
+<span class="fc" id="L65">			throw new IllegalStateException();</span>
+		}
+<span class="fc" id="L67">		this.readIndex++;</span>
+<span class="fc" id="L68">		this.elems[readIndex] = o;</span>
+<span class="fc" id="L69">	}</span>
+
+	public Object pop() throws IllegalStateException {
+<span class="fc bfc" id="L72" title="All 2 branches covered.">		if (isEmpty()) {</span>
+<span class="fc" id="L73">			throw new IllegalStateException();</span>
+		}
+<span class="fc" id="L75">		Object rv = this.top();</span>
+<span class="fc" id="L76">		this.elems[readIndex] = null;</span>
+<span class="fc" id="L77">		readIndex--;</span>
+<span class="fc" id="L78">		return rv;</span>
+	}
+
+	public Object top() throws IllegalStateException {
+<span class="fc bfc" id="L82" title="All 2 branches covered.">		if (isEmpty()) {</span>
+<span class="fc" id="L83">			throw new IllegalStateException();</span>
+		}
+<span class="fc" id="L85">		Object rv = this.elems[readIndex];</span>
+<span class="fc" id="L86">		return rv;</span>
+	}
+
+	@Override
+	public int hashCode() {
+<span class="fc" id="L91">		final int prime = 31;</span>
+<span class="fc" id="L92">		int result = 1;</span>
+<span class="fc" id="L93">		result = prime * result + Arrays.hashCode(elems);</span>
+<span class="fc" id="L94">		result = prime * result + readIndex;</span>
+<span class="fc" id="L95">		return result;</span>
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+<span class="fc bfc" id="L100" title="All 2 branches covered.">		if (this == obj)</span>
+<span class="fc" id="L101">			return true;</span>
+<span class="fc bfc" id="L102" title="All 2 branches covered.">		if (obj == null)</span>
+<span class="fc" id="L103">			return false;</span>
+<span class="fc bfc" id="L104" title="All 2 branches covered.">		if (getClass() != obj.getClass())</span>
+<span class="fc" id="L105">			return false;</span>
+<span class="fc" id="L106">		StackAr other = (StackAr) obj;</span>
+<span class="fc bfc" id="L107" title="All 2 branches covered.">		if (!Arrays.equals(elems, other.elems))</span>
+<span class="fc" id="L108">			return false;</span>
+<span class="fc bfc" id="L109" title="All 2 branches covered.">		if (readIndex != other.readIndex)</span>
+<span class="fc" id="L110">			return false;</span>
+<span class="fc" id="L111">		return true;</span>
+	}
+
+	@Override
+	public String toString() {
+<span class="fc" id="L116">		StringBuffer b = new StringBuffer();</span>
+<span class="fc" id="L117">		b.append(&quot;[&quot;);</span>
+<span class="fc bfc" id="L118" title="All 2 branches covered.">		for (int i = 0; i &lt;= readIndex; i++) {</span>
+<span class="fc bfc" id="L119" title="All 2 branches covered.">			if (i &gt; 0) {</span>
+<span class="fc" id="L120">				b.append(&quot;,&quot;);</span>
+			}
+<span class="fc" id="L122">			Object o = elems[i];</span>
+<span class="fc" id="L123">			String s = String.valueOf(o);</span>
+<span class="fc" id="L124">			b.append(s);</span>
+		}
+<span class="fc" id="L126">		b.append(&quot;]&quot;);</span>
+<span class="fc" id="L127">		return b.toString();</span>
+	}
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.7.202105040129</span></div></body></html>

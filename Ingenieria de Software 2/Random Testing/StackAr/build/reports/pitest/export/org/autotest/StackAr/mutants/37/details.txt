@@ -1,0 +1,1 @@
+MutationDetails [id=MutationIdentifier [location=Location [clazz=org.autotest.StackAr, method=repOK, methodDesc=()Z], indexes=[74], mutator=org.pitest.mutationtest.engine.gregor.mutators.returns.BooleanTrueReturnValsMutator], filename=StackAr.java, block=[12], lineNumber=47, description=replaced boolean return with true for org/autotest/StackAr::repOK, testsInOrder=[]]

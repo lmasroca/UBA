@@ -1,0 +1,1 @@
+MutationDetails [id=MutationIdentifier [location=Location [clazz=org.autotest.StackAr, method=pop, methodDesc=()Ljava/lang/Object;], indexes=[32], mutator=org.pitest.mutationtest.engine.gregor.mutators.MathMutator], filename=StackAr.java, block=[5], lineNumber=77, description=Replaced integer subtraction with addition, testsInOrder=[]]

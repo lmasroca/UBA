@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.autotest.RegressionTest36" tests="50" skipped="0" failures="0" errors="0" timestamp="2024-04-04T22:18:31" hostname="ARJHNQGK3" time="0.017">
+  <properties/>
+  <testcase name="test1801()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1802()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1803()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1804()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1805()" classname="org.autotest.RegressionTest36" time="0.001"/>
+  <testcase name="test1806()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1807()" classname="org.autotest.RegressionTest36" time="0.001"/>
+  <testcase name="test1808()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1809()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1810()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1811()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1812()" classname="org.autotest.RegressionTest36" time="0.001"/>
+  <testcase name="test1813()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1814()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1815()" classname="org.autotest.RegressionTest36" time="0.001"/>
+  <testcase name="test1816()" classname="org.autotest.RegressionTest36" time="0.001"/>
+  <testcase name="test1817()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1818()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1819()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1820()" classname="org.autotest.RegressionTest36" time="0.001"/>
+  <testcase name="test1821()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1822()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1823()" classname="org.autotest.RegressionTest36" time="0.001"/>
+  <testcase name="test1824()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1825()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1826()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1827()" classname="org.autotest.RegressionTest36" time="0.001"/>
+  <testcase name="test1828()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1829()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1830()" classname="org.autotest.RegressionTest36" time="0.001"/>
+  <testcase name="test1831()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1832()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1833()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1834()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1835()" classname="org.autotest.RegressionTest36" time="0.001"/>
+  <testcase name="test1836()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1837()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1838()" classname="org.autotest.RegressionTest36" time="0.001"/>
+  <testcase name="test1839()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1840()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1841()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1842()" classname="org.autotest.RegressionTest36" time="0.001"/>
+  <testcase name="test1843()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1844()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1845()" classname="org.autotest.RegressionTest36" time="0.001"/>
+  <testcase name="test1846()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1847()" classname="org.autotest.RegressionTest36" time="0.001"/>
+  <testcase name="test1848()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1849()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <testcase name="test1850()" classname="org.autotest.RegressionTest36" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

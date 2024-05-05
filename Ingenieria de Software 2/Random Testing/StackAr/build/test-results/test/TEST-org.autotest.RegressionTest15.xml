@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.autotest.RegressionTest15" tests="50" skipped="0" failures="0" errors="0" timestamp="2024-04-04T22:18:31" hostname="ARJHNQGK3" time="0.023">
+  <properties/>
+  <testcase name="test0751()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0752()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0753()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0754()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0755()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0756()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0757()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0758()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0759()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0760()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0761()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0762()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0763()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0764()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0765()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0766()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0767()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0768()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0769()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0770()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0771()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0772()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0773()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0774()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0775()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0776()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0777()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0778()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0779()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0780()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0781()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0782()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0783()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0784()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0785()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0786()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0787()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0788()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0789()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0790()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0791()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0792()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0793()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0794()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0795()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0796()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0797()" classname="org.autotest.RegressionTest15" time="0.001"/>
+  <testcase name="test0798()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0799()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <testcase name="test0800()" classname="org.autotest.RegressionTest15" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

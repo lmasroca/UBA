@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.autotest.RegressionTest20" tests="50" skipped="0" failures="0" errors="0" timestamp="2024-04-04T22:18:31" hostname="ARJHNQGK3" time="0.016">
+  <properties/>
+  <testcase name="test1001()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1002()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1003()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1004()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1005()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1006()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1007()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1008()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1009()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1010()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1011()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1012()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1013()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1014()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1015()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1016()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1017()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1018()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1019()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1020()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1021()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1022()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1023()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1024()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1025()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1026()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1027()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1028()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1029()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1030()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1031()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1032()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1033()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1034()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1035()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1036()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1037()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1038()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1039()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1040()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1041()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1042()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1043()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1044()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1045()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1046()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1047()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1048()" classname="org.autotest.RegressionTest20" time="0.001"/>
+  <testcase name="test1049()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <testcase name="test1050()" classname="org.autotest.RegressionTest20" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

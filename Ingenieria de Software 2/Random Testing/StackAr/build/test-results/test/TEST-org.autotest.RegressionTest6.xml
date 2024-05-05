@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.autotest.RegressionTest6" tests="50" skipped="0" failures="0" errors="0" timestamp="2024-04-04T22:18:31" hostname="ARJHNQGK3" time="0.012">
+  <properties/>
+  <testcase name="test0301()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0302()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0303()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0304()" classname="org.autotest.RegressionTest6" time="0.001"/>
+  <testcase name="test0305()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0306()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0307()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0308()" classname="org.autotest.RegressionTest6" time="0.001"/>
+  <testcase name="test0309()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0310()" classname="org.autotest.RegressionTest6" time="0.001"/>
+  <testcase name="test0311()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0312()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0313()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0314()" classname="org.autotest.RegressionTest6" time="0.001"/>
+  <testcase name="test0315()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0316()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0317()" classname="org.autotest.RegressionTest6" time="0.001"/>
+  <testcase name="test0318()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0319()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0320()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0321()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0322()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0323()" classname="org.autotest.RegressionTest6" time="0.001"/>
+  <testcase name="test0324()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0325()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0326()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0327()" classname="org.autotest.RegressionTest6" time="0.001"/>
+  <testcase name="test0328()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0329()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0330()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0331()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0332()" classname="org.autotest.RegressionTest6" time="0.001"/>
+  <testcase name="test0333()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0334()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0335()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0336()" classname="org.autotest.RegressionTest6" time="0.001"/>
+  <testcase name="test0337()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0338()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0339()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0340()" classname="org.autotest.RegressionTest6" time="0.001"/>
+  <testcase name="test0341()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0342()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0343()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0344()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0345()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0346()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0347()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0348()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0349()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <testcase name="test0350()" classname="org.autotest.RegressionTest6" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

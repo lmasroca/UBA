@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.autotest.RegressionTest1" tests="50" skipped="0" failures="0" errors="0" timestamp="2024-04-04T22:18:31" hostname="ARJHNQGK3" time="0.015">
+  <properties/>
+  <testcase name="test0051()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0052()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0053()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0054()" classname="org.autotest.RegressionTest1" time="0.001"/>
+  <testcase name="test0055()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0056()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0057()" classname="org.autotest.RegressionTest1" time="0.001"/>
+  <testcase name="test0058()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0059()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0060()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0061()" classname="org.autotest.RegressionTest1" time="0.001"/>
+  <testcase name="test0062()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0063()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0064()" classname="org.autotest.RegressionTest1" time="0.001"/>
+  <testcase name="test0065()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0066()" classname="org.autotest.RegressionTest1" time="0.001"/>
+  <testcase name="test0067()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0068()" classname="org.autotest.RegressionTest1" time="0.001"/>
+  <testcase name="test0069()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0070()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0071()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0072()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0073()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0074()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0075()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0076()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0077()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0078()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0079()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0080()" classname="org.autotest.RegressionTest1" time="0.001"/>
+  <testcase name="test0081()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0082()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0083()" classname="org.autotest.RegressionTest1" time="0.001"/>
+  <testcase name="test0084()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0085()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0086()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0087()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0088()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0089()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0090()" classname="org.autotest.RegressionTest1" time="0.001"/>
+  <testcase name="test0091()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0092()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0093()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0094()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0095()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0096()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0097()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0098()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <testcase name="test0099()" classname="org.autotest.RegressionTest1" time="0.001"/>
+  <testcase name="test0100()" classname="org.autotest.RegressionTest1" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

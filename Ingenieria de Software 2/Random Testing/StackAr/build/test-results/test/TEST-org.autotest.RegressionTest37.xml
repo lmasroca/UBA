@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.autotest.RegressionTest37" tests="50" skipped="0" failures="0" errors="0" timestamp="2024-04-04T22:18:31" hostname="ARJHNQGK3" time="0.01">
+  <properties/>
+  <testcase name="test1851()" classname="org.autotest.RegressionTest37" time="0.001"/>
+  <testcase name="test1852()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1853()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1854()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1855()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1856()" classname="org.autotest.RegressionTest37" time="0.001"/>
+  <testcase name="test1857()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1858()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1859()" classname="org.autotest.RegressionTest37" time="0.001"/>
+  <testcase name="test1860()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1861()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1862()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1863()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1864()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1865()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1866()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1867()" classname="org.autotest.RegressionTest37" time="0.001"/>
+  <testcase name="test1868()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1869()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1870()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1871()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1872()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1873()" classname="org.autotest.RegressionTest37" time="0.001"/>
+  <testcase name="test1874()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1875()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1876()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1877()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1878()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1879()" classname="org.autotest.RegressionTest37" time="0.001"/>
+  <testcase name="test1880()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1881()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1882()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1883()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1884()" classname="org.autotest.RegressionTest37" time="0.001"/>
+  <testcase name="test1885()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1886()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1887()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1888()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1889()" classname="org.autotest.RegressionTest37" time="0.001"/>
+  <testcase name="test1890()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1891()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1892()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1893()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1894()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1895()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1896()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1897()" classname="org.autotest.RegressionTest37" time="0.001"/>
+  <testcase name="test1898()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1899()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <testcase name="test1900()" classname="org.autotest.RegressionTest37" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

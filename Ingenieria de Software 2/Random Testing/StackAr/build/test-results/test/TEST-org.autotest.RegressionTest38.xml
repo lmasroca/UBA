@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.autotest.RegressionTest38" tests="50" skipped="0" failures="0" errors="0" timestamp="2024-04-04T22:18:31" hostname="ARJHNQGK3" time="0.009">
+  <properties/>
+  <testcase name="test1901()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1902()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1903()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1904()" classname="org.autotest.RegressionTest38" time="0.001"/>
+  <testcase name="test1905()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1906()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1907()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1908()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1909()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1910()" classname="org.autotest.RegressionTest38" time="0.001"/>
+  <testcase name="test1911()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1912()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1913()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1914()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1915()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1916()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1917()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1918()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1919()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1920()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1921()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1922()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1923()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1924()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1925()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1926()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1927()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1928()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1929()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1930()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1931()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1932()" classname="org.autotest.RegressionTest38" time="0.001"/>
+  <testcase name="test1933()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1934()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1935()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1936()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1937()" classname="org.autotest.RegressionTest38" time="0.001"/>
+  <testcase name="test1938()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1939()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1940()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1941()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1942()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1943()" classname="org.autotest.RegressionTest38" time="0.001"/>
+  <testcase name="test1944()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1945()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1946()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1947()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1948()" classname="org.autotest.RegressionTest38" time="0.001"/>
+  <testcase name="test1949()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <testcase name="test1950()" classname="org.autotest.RegressionTest38" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,1 @@
+MutationDetails [id=MutationIdentifier [location=Location [clazz=org.autotest.StackAr, method=repOK, methodDesc=()Z], indexes=[9], mutator=org.pitest.mutationtest.engine.gregor.mutators.ConditionalsBoundaryMutator], filename=StackAr.java, block=[1], lineNumber=38, description=changed conditional boundary, testsInOrder=[]]

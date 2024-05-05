@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.autotest.RegressionTest26" tests="50" skipped="0" failures="0" errors="0" timestamp="2024-04-04T22:18:31" hostname="ARJHNQGK3" time="0.015">
+  <properties/>
+  <testcase name="test1301()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1302()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1303()" classname="org.autotest.RegressionTest26" time="0.001"/>
+  <testcase name="test1304()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1305()" classname="org.autotest.RegressionTest26" time="0.001"/>
+  <testcase name="test1306()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1307()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1308()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1309()" classname="org.autotest.RegressionTest26" time="0.001"/>
+  <testcase name="test1310()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1311()" classname="org.autotest.RegressionTest26" time="0.001"/>
+  <testcase name="test1312()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1313()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1314()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1315()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1316()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1317()" classname="org.autotest.RegressionTest26" time="0.001"/>
+  <testcase name="test1318()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1319()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1320()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1321()" classname="org.autotest.RegressionTest26" time="0.001"/>
+  <testcase name="test1322()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1323()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1324()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1325()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1326()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1327()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1328()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1329()" classname="org.autotest.RegressionTest26" time="0.001"/>
+  <testcase name="test1330()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1331()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1332()" classname="org.autotest.RegressionTest26" time="0.001"/>
+  <testcase name="test1333()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1334()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1335()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1336()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1337()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1338()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1339()" classname="org.autotest.RegressionTest26" time="0.001"/>
+  <testcase name="test1340()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1341()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1342()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1343()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1344()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1345()" classname="org.autotest.RegressionTest26" time="0.001"/>
+  <testcase name="test1346()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1347()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1348()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1349()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <testcase name="test1350()" classname="org.autotest.RegressionTest26" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

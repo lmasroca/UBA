@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.autotest.RegressionTest12" tests="50" skipped="0" failures="0" errors="0" timestamp="2024-04-04T22:18:31" hostname="ARJHNQGK3" time="0.013">
+  <properties/>
+  <testcase name="test0601()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0602()" classname="org.autotest.RegressionTest12" time="0.001"/>
+  <testcase name="test0603()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0604()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0605()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0606()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0607()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0608()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0609()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0610()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0611()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0612()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0613()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0614()" classname="org.autotest.RegressionTest12" time="0.001"/>
+  <testcase name="test0615()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0616()" classname="org.autotest.RegressionTest12" time="0.001"/>
+  <testcase name="test0617()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0618()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0619()" classname="org.autotest.RegressionTest12" time="0.001"/>
+  <testcase name="test0620()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0621()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0622()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0623()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0624()" classname="org.autotest.RegressionTest12" time="0.001"/>
+  <testcase name="test0625()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0626()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0627()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0628()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0629()" classname="org.autotest.RegressionTest12" time="0.001"/>
+  <testcase name="test0630()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0631()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0632()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0633()" classname="org.autotest.RegressionTest12" time="0.001"/>
+  <testcase name="test0634()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0635()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0636()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0637()" classname="org.autotest.RegressionTest12" time="0.001"/>
+  <testcase name="test0638()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0639()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0640()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0641()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0642()" classname="org.autotest.RegressionTest12" time="0.001"/>
+  <testcase name="test0643()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0644()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0645()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0646()" classname="org.autotest.RegressionTest12" time="0.001"/>
+  <testcase name="test0647()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0648()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0649()" classname="org.autotest.RegressionTest12" time="0.0"/>
+  <testcase name="test0650()" classname="org.autotest.RegressionTest12" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
