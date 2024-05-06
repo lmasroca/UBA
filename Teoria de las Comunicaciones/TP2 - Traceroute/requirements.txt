@@ -1,0 +1,10 @@
+scapy
+pandas
+matplotlib
+requests
+tqdm
+numpy
+scipy
+plotly
+geopandas
+ip2geotools
